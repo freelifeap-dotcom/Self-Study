@@ -1,4 +1,3 @@
-![Python](https://img.shields.io) &nbsp; ![Pytest](https://img.shields.io) &nbsp; ![Selenium](https://img.shields.io) &nbsp; ![GitHub](https://img.shields.io)
 # Hi there, I'm Artsem 👋
 
 ## 🐍 QA Automation Engineer (Python)
