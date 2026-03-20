@@ -1,3 +1,4 @@
+![Python](https://img.shields.io) ![Pytest](https://img.shields.io) ![Selenium](https://img.shields.io) ![GitHub](https://img.shields.io)
 # Hi there, I'm Artsem 👋
 
 ## 🐍 QA Automation Engineer (Python)
@@ -17,4 +18,4 @@ I am currently migrating and upgrading my previous automation projects to meet m
 *   **Pytest Optimization:** Using fixtures, marks, and parameterization for efficient test execution.
 *   **Maintainability:** Transitioning from "linear" scripts to robust, reusable frameworks.
 
-📫 **How to reach me:** [Link to LinkedIn / Email]
+📫 **How to reach me:** [freelife.ap@gmail.com]
