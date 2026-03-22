@@ -1,0 +1,27 @@
+Тест: test_ebay_search
+URL: https://www.ebay.com/
+Ошибка: Message: ❌ Не смог найти элемент ('id', 'gh-search-btnn') на странице https://www.ebay.com/
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0x11e7c13+10dd3]
+	undetected_chromedriver!GetHandleVerifier [0x11e7d44+10f04]
+	undetected_chromedriver!(No symbol) [0xfc1f50]
+	undetected_chromedriver!(No symbol) [0x100a9aa]
+	undetected_chromedriver!(No symbol) [0x100ac4b]
+	undetected_chromedriver!(No symbol) [0x104cee2]
+	undetected_chromedriver!(No symbol) [0x102d954]
+	undetected_chromedriver!(No symbol) [0x104a7de]
+	undetected_chromedriver!(No symbol) [0x102d6a6]
+	undetected_chromedriver!(No symbol) [0x1000029]
+	undetected_chromedriver!(No symbol) [0x1000de4]
+	undetected_chromedriver!GetHandleVerifier [0x1444509+26d6c9]
+	undetected_chromedriver!GetHandleVerifier [0x143fb43+268d03]
+	undetected_chromedriver!GetHandleVerifier [0x145d85b+286a1b]
+	undetected_chromedriver!GetHandleVerifier [0x1201668+2a828]
+	undetected_chromedriver!GetHandleVerifier [0x12097fd+329bd]
+	undetected_chromedriver!GetHandleVerifier [0x11f0588+19748]
+	undetected_chromedriver!GetHandleVerifier [0x11f0752+19912]
+	undetected_chromedriver!GetHandleVerifier [0x11d99da+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x76f15d49+19]
+	ntdll!RtlInitializeExceptionChain [0x77b0d81b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77b0d7a1+231]
+
